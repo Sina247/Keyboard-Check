@@ -1,6 +1,6 @@
 # ⌨️ Keyboard Check  
 
-A simple and interactive web app built with HTML, CSS, and JavaScript that lets users test their keyboard keys in real time. Detects key presses, visualizes which keys are being pressed and helps troubleshoot keyboard issues.  
+A simple and interactive web app built with HTML, CSS, and JavaaScript that lets users test their keyboard keys in real time. Detects key presses, visualizes which keys are being pressed and helps troubleshoot keyboard issues.  
 
 ---
 
